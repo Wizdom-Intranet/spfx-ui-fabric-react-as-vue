@@ -1,0 +1,1 @@
+export { default as uiDatepicker } from "./components/uiDatepicker.vue";
