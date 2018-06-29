@@ -3,6 +3,7 @@ Office ui fabric react, implemented as vue components made specific for SPFx.
 
 ## Component status
 Component      |Implemented | ui-fabric-react | Notes
+---            | :---:      |:---:            |---
 Datepicker     | Yes        | Yes             | beware of the increased size!
 
 ## Features
